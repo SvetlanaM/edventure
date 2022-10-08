@@ -1,13 +1,10 @@
-Django on DotCloud
+Django Edventure application - Dotcloud integration
 ==================
 
-This is application for education system. It works on DotCloud hosting. 
-You can put your Django power website on Dotcloud,
-see documentation below
-  <http://docs.dotcloud.com/tutorials/python/django/>`_ on DotCloud's
-  documentation website.
+The very first version of the backend application Edventure developed in:
+1. Django
+2. HTML, CSS, Bootstrap
+3. jQuery
 
-You can also learn more by diving into `DotCloud documentations
-<http://docs.dotcloud.com/>`_, especially the one for the `Python service
-<http://docs.dotcloud.com/services/python/>`_ which is used by this app.
+with community of students in Masaryk University during my studies. It was non-profit project, that should help people learn new 21st century skills.
 
